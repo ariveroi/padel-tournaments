@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/static/js/main.4a4aba84.js",
+    "static/js/670.ec3a73e2.js": "/static/js/670.ec3a73e2.js",
+    "static/media/padel-bg.jpg": "/static/media/padel-bg.6979b79ad39e919bf07f.jpg",
+    "static/media/create-padel-bg.jpg": "/static/media/create-padel-bg.00462b7a2a934a99c65e.jpg",
+    "static/media/register-padel2-bg.jpg": "/static/media/register-padel2-bg.e7d78dc8b14030aa635e.jpg",
+    "static/media/register-padel-bg.jpg": "/static/media/register-padel-bg.933aa72e9b085007a94e.jpg",
+    "static/media/user.png": "/static/media/user.62136d01a671d8c92dfe.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.4a4aba84.js.map": "/static/js/main.4a4aba84.js.map",
+    "670.ec3a73e2.js.map": "/static/js/670.ec3a73e2.js.map"
+  },
+  "entrypoints": [
+    "static/js/670.ec3a73e2.js",
+    "static/js/main.4a4aba84.js"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "App para gestionar torneos de amigos de padel",
+  "display": "standalone",
+  "lang": "en",
+  "name": "torneos-padel-ari",
+  "short_name": "torneos-padel-ari",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
